@@ -19,15 +19,17 @@ The following **optional** features are implemented:
 changed the css
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] The app right now isn't very functional a search bar would be great however, I do not know how to implement that currently.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![Kapture 2023-07-01 at 10 36 25](https://github.com/Zainebs/web102_prework/assets/87456760/410b370c-9149-46d8-a2de-4903f3b70e21)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap   
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I faced were working with the ternary operator and trying to translate the code. I honeslty was unfamilar with alot of the topics covered in the prework however, found it quite interesting to learn. I still don't fully understand how to implement the filter, reduce, and arrow function without continously looking back at documentation but hopefully before the program I will gain a better understanding.
 
 ## License
 
