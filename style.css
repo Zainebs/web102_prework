@@ -2,16 +2,17 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #bc7ab3;
 }
 
 #tentacles {
     width: 50px;
+    color: #bc7ab3;
 }
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: rgb(226, 190, 228);
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -21,10 +22,14 @@ body {
 
 .stats-container {
     display: flex;
+    color : rgb(252, 246, 252);
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px rgb(142, 89, 123);
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #a34d96;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -45,7 +50,7 @@ body {
 .game-img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 0 10px #FFFFFF;
+    box-shadow: 0 0 10px #ffffff86;
 }
 
 .game-card {
