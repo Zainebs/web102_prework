@@ -25,7 +25,7 @@ changed the css
 
 Here's a walkthrough of implemented features:
 
-<img src='!![](https://github.com/Zainebs/web102_prework/assets/87456760/410b370c-9149-46d8-a2de-4903f3b70e21)
+<img src='!![](https://github-production-user-asset-6210df.s3.amazonaws.com/87456760/250285842-410b370c-9149-46d8-a2de-4903f3b70e21.gif)
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
