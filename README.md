@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 changed the css
 
 * [ ] List anything else that you can get done to improve the app functionality!
-* [ ] The app right now isn't very functional a search bar would be great however, I do not know how to implement that currently.
+* [ ] The app  isn't very functional currently. A search bar would be a great way to make the website more functional however, I do not know how to implement one as of yet.
 
 ## Video Walkthrough
 
@@ -37,7 +37,7 @@ GIF created with Kap
 
 ## Notes
 
-Some challenges I faced were working with the ternary operator and trying to translate the code. I honeslty was unfamilar with alot of the topics covered in the prework however, found it quite interesting to learn. I still don't fully understand how to implement the filter, reduce, and arrow function without continously looking back at documentation but hopefully before the program I will gain a better understanding.
+Some challenges I faced were working with the ternary operator and trying to translate the code. I honestly was unfamiliar with a lot of the topics covered in the prework, however, found it quite interesting to learn. I still don't fully understand how to implement the filter, reduce, and arrow function without continuously looking back at the documentation but, hopefully before the program, I will gain a better understanding.
 
 ## License
 
